@@ -1,0 +1,6 @@
+- 👋 Welcome! I’m @S1B34 — a dedicated explorer of the frontiers of cybersecurity and front-end design.
+- 👀 I immerse myself in the ever-evolving world of digital landscapes, through thrilling games, gripping TV series, and the vibrant beats of diverse music genres.
+- 🌱 I’m on a continuous learning path, currently enhancing my expertise in cutting-edge front-end and web development techniques.
+- 📫 Want to get in touch? Email me at: s1b34@proton.me
+- 😄 Pronouns: Helicopter
+- ⚡ Fascinating fact: The idea for Google's name originated from a mathematical term 'googol', which refers to the number followed by a hundred zeros, underscoring the vast amount of information the search engine aimed to explore.
