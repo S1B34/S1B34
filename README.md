@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed saber (S1B34)</h1>
 <h3 align="center">21yr from LY</h3>
 
-- 🌱 I’m currently learning **html,css,js,python**
+- 🌱 I’m currently learning **html,css,js**
 
 - 💬 Ask me about **anything :3**
 
